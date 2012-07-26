@@ -1,6 +1,3 @@
-ElasticSearchlog4lAppender
-==========================
-
 Disclaimer
 ==========
 I wrote this library as part of playing around with elasticsearch and writing appenders for log4j
