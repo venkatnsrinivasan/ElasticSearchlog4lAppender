@@ -13,5 +13,6 @@ log4j.appender.ElasticSearch.clusterName=elasticsearch
 log4j.appender.ElasticSearch.index=log4jelastic
 log4j.appender.ElasticSearch.type=appendertest
 
+
 log4j.appender.Console=org.apache.log4j.ConsoleAppender
 log4j.appender.Console.layout=org.apache.log4j.PatternLayout
